@@ -37,3 +37,8 @@ yarn-debug.log*
 /docuseal
 /ee
 dump.rdb
+
+/data
+/pg_data
+docker-compose.override.yml
+
